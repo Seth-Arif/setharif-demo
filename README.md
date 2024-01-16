@@ -1,4 +1,4 @@
 # setharif-demo
 This is my first Git Repository.
 <br>
-Author - Seth Arif
+Author - Seth Arif (Aapna College)
